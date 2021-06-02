@@ -1,4 +1,4 @@
-# GenerateAccessToken
+# AuthServer.GenerateAccessToken
 Example for generating access token with the Unimake authentication server.
 
 ## Official documentation (in Brazilian Portuguese)
