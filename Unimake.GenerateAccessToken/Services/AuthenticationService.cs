@@ -25,7 +25,7 @@ namespace Unimake.GenerateAccessToken.Services
 
         #region Private Methods
 
-        private static string EnsureURL() => $"https://authserver.online/api/auth";
+        private static string EnsureURL() => $"https://unimake.app/auth/api/auth";
 
         private static void PrepareRequest(AuthRequest authRequest, HttpRequestMessage request, string url)
         {
